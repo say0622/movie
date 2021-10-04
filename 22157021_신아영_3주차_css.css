@@ -1,0 +1,40 @@
+body {
+				font-family: 'Noto Sans KR', sans-serif; 
+				background-color: red;
+			}
+			#container {
+				margin: 0 auto;
+				font-size: 23px;
+				color: white;
+			}
+			#head {
+				text-align: right;
+				margin-right: 50px;
+				margin-bottom: 100px;
+			}
+			.top {
+				margin-top: 300px;
+				margin-left: 50px;
+				margin-right: 50px;
+				margin-bottom: 100px;
+			}
+			#poster img {
+				float: left;
+				width: 50%;
+				margin-right: 20px;
+			}
+			.clear {clear: both;}
+			#character {
+				text-align: center;
+				margin-top: 200px;
+				margin-bottom: 200px;
+			}
+			#bottom {
+				text-align: center;
+			}
+			#video1 {
+				margin-bottom: 100px;
+			}
+			#video2 {
+				margin-bottom: 200px;
+			}
